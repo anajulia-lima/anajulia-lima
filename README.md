@@ -2,7 +2,7 @@
 
 Sou a Ana Júlia, graduada em Matemática, e atuo como Jr. Dataviz Analyst. Gosto de resolver problemas, e hoje, estudo ciência de dados e machine learning! 🌲
 
-Dentre minhas habilidades, estão Python, SQL, Power BI, DAX, Excel, além de um kit de ferramentas para gestão, como Miro, Notion e Jira. 🧰
+Dentre minhas habilidades, estão Python, SQL, Power BI, DAX, além de um kit de ferramentas para gestão, como Miro, Notion e Jira. 🧰
 
 Também busco transitar entre o mundo técnico, e de negócios, para transmitir o conhecimento do que foi construído, e consequentemente, seu impacto. Afinal, 
 transmissão de conhecimento é meu grande propósito 🌎
