@@ -1,6 +1,6 @@
 ## Olá ✨
 
-Sou a Ana Júlia, graduada em Matemática, e atuo como Jr. Dataviz Analyst. Gosto de resolver problemas, e hoje, estudo ciência de dados e machine learning! 🌲
+Sou a Ana Júlia, graduada em Matemática, e atuo como Data Analyst. Gosto de resolver problemas, e hoje, estudo ciência de dados e machine learning! 🌲
 
 Dentre minhas habilidades, estão Python, SQL, Power BI, DAX, além de um kit de ferramentas para gestão, como Miro, Notion e Jira. 🧰
 
